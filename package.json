@@ -1,0 +1,22 @@
+{
+  "name": "sa",
+  "version": "1.0.0",
+  "description": "s",
+  "main": "a",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon lesson1.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "as"
+  },
+  "keywords": [
+    "as"
+  ],
+  "author": "s",
+  "license": "ISC"
+}
